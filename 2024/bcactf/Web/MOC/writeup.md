@@ -1,0 +1,1 @@
+The stored on db is only the otp secret, so i must create based on `now()` function, But, since it use the time for the seed. So I need to brute the date that admin registered.

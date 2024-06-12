@@ -1,0 +1,1 @@
+Since it need to guess the captcha from total 75 md5 hashes in 1 minutes, I couldn't do it, it always running out of time. So I decided to create all md5 hashes using te 4 alphabet combination save it into json and retrieving it while the script is running.
